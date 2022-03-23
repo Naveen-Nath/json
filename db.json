@@ -1,0 +1,10 @@
+{
+  "people": [
+    { "id": 1, "name": "naveen nath" },
+    { "id": 2, "name": "Goku" },
+    { "id": 3, "name": "vegita" }
+    { "id": 4, "name": "gohan" }
+    { "id": 5, "name": "trunks" }
+  ],
+ 
+}
